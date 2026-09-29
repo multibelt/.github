@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="logo-horizontal.png" alt="Grupo Multibelt" width="360">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-horizontal-branca.png">
+    <img src="logo-horizontal.png" alt="Grupo Multibelt" width="360">
+  </picture>
 </p>
 
 # Grupo Multibelt
